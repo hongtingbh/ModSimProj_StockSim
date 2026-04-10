@@ -1,5 +1,5 @@
-Commands:
-python -m venv venv
-venv/Scripts/Activate
-pip install -r reqs.txt
+Commands: <br>
+python -m venv venv <br>
+venv/Scripts/Activate <br>
+pip install -r reqs.txt <br>
 python main.py
